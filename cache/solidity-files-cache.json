@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\John\\Documents\\GitHub\\lotteryIA\\contracts\\lottery.sol": {
+      "lastModificationDate": 1702544348411,
+      "contentHash": "d6d8e5b396ffa33b4ba77295060fd2ed",
+      "sourceName": "contracts/lottery.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.19"
+      ],
+      "artifacts": [
+        "lottery"
+      ]
+    }
+  }
+}
